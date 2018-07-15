@@ -1,0 +1,276 @@
+E:\Study\LT_CSDL\QLResort\Bin\QLResort.exe.config
+C:\Users\heoco\Desktop\QLResort\Bin\QLResort.exe.config
+C:\Users\heoco\Desktop\QLResort\Bin\QLResort.exe
+C:\Users\heoco\Desktop\QLResort\Bin\QLResort.pdb
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.csprojResolveAssemblyReference.cache
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatMon.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatPhong.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmChiTietShopping.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmChiTietThueXe.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmDangNhap.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmDichVu.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmXNDatPhong.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmKhachHang.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmLoaiMon.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmLoaiPhong.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmLoaiSanPham.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmNhanVien.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmPhong.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmSanPham.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmThucDon.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmXe.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.Properties.Resources.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.csproj.GenerateResource.Cache
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.exe.licenses
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.exe
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.pdb
+E:\Ħɛø Çσ\CShape\QLResort\Bin\QLResort.exe.config
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.exe
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.pdb
+E:\Ħɛø Çσ\CShape\QLResort\Bin\QLResort.exe
+E:\Ħɛø Çσ\CShape\QLResort\Bin\QLResort.pdb
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.csprojResolveAssemblyReference.cache
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatMon.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatPhong.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmChiTietShopping.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmChiTietThueXe.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmDangNhap.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmDichVu.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmXNDatPhong.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmKhachHang.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmLoaiMon.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmLoaiPhong.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmLoaiSanPham.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmNhanVien.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmPhong.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmSanPham.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmThucDon.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmXe.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.Properties.Resources.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.csproj.GenerateResource.Cache
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.exe.licenses
+C:\Users\MacBook\Project\TBCo\QLResort\Bin\QLResort.exe.config
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.exe
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.pdb
+C:\Users\MacBook\Project\TBCo\QLResort\Bin\QLResort.exe
+C:\Users\MacBook\Project\TBCo\QLResort\Bin\QLResort.pdb
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.csprojResolveAssemblyReference.cache
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatMon.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatPhong.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmChiTietShopping.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmChiTietThueXe.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmDangNhap.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmDichVu.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmHinhAnh.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmLoaiXe.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmThanhToan.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmThongKe.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmXNDatPhong.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmKhachHang.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmLoaiMon.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmLoaiPhong.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmLoaiSanPham.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmNhanVien.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmPhong.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmSanPham.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmThucDon.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.frmXe.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.Properties.Resources.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatMon.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatPhong.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscShopping.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscThueXe.resources
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.csproj.GenerateResource.Cache
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\QLResort.exe.licenses
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\RdlCompile.cache
+C:\Users\MacBook\Project\TBCo\QLResort\QLResort\obj\Debug\RdlCompile.compiled
+C:\Users\heoco\Downloads\Compressed\QLResort\Bin\QLResort.exe.config
+C:\Users\heoco\Downloads\Compressed\QLResort\Bin\QLResort.exe
+C:\Users\heoco\Downloads\Compressed\QLResort\Bin\QLResort.pdb
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.csprojResolveAssemblyReference.cache
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatMon.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatPhong.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmChiTietShopping.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmChiTietThueXe.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmDangNhap.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmDichVu.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmHinhAnh.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmLoaiXe.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmThanhToan.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmThongKe.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmXNDatPhong.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmKhachHang.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmLoaiMon.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmLoaiPhong.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmLoaiSanPham.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmNhanVien.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmPhong.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmSanPham.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmThucDon.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmXe.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.Properties.Resources.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatMon.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatPhong.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscShopping.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscThueXe.resources
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.csproj.GenerateResource.Cache
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.exe.licenses
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.exe
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.pdb
+C:\Users\heoco\Downloads\Compressed\QLResort\QLResort\obj\Debug\QLResort.frmQuanLy.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmHinhAnh.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmLoaiXe.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmQuanLy.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmThanhToan.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.frmThongKe.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatMon.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatPhong.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscShopping.resources
+C:\Users\heoco\Desktop\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscThueXe.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\Bin\QLResort.exe.config
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.exe
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.pdb
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\Bin\QLResort.exe
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\Bin\QLResort.pdb
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.csprojResolveAssemblyReference.cache
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatMon.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatPhong.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmChiTietShopping.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmChiTietThueXe.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmDangNhap.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmDichVu.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmHinhAnh.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmLoaiXe.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmNhanVien.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmQuanLy.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmThanhToan.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmThongKe.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmXNDatPhong.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmKhachHang.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmLoaiMon.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmLoaiPhong.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmLoaiSanPham.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmPhong.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmSanPham.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmThucDon.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmXe.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.Properties.Resources.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatMon.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatPhong.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscShopping.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscThueXe.resources
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.csproj.GenerateResource.Cache
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.exe.licenses
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\RdlCompile.cache
+C:\Users\PhongTruong\Desktop\Group-1\QLResort\QLResort\obj\Debug\RdlCompile.compiled
+C:\Users\heoco\Desktop\Group-1\QLResort\Bin\QLResort.exe.config
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.exe
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.pdb
+C:\Users\heoco\Desktop\Group-1\QLResort\Bin\QLResort.exe
+C:\Users\heoco\Desktop\Group-1\QLResort\Bin\QLResort.pdb
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.csprojResolveAssemblyReference.cache
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatMon.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatPhong.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmChiTietShopping.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmChiTietThueXe.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmDangNhap.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmDichVu.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmHinhAnh.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmLoaiXe.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmNhanVien.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmQuanLy.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmThanhToan.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmThongKe.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmXNDatPhong.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmKhachHang.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmLoaiMon.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmLoaiPhong.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmLoaiSanPham.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmPhong.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmSanPham.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmThucDon.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmXe.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.Properties.Resources.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatMon.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatPhong.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscShopping.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscThueXe.resources
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.csproj.GenerateResource.Cache
+C:\Users\heoco\Desktop\Group-1\QLResort\QLResort\obj\Debug\QLResort.exe.licenses
+E:\Study\LT_CSDL\Group-1\QLResort\Bin\QLResort.exe.config
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.exe
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.pdb
+E:\Study\LT_CSDL\Group-1\QLResort\Bin\QLResort.exe
+E:\Study\LT_CSDL\Group-1\QLResort\Bin\QLResort.pdb
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.csprojResolveAssemblyReference.cache
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatMon.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatPhong.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmChiTietShopping.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmChiTietThueXe.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmDangNhap.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmDichVu.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmHinhAnh.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmLoaiXe.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmNhanVien.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmQuanLy.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmThanhToan.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmThongKe.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmXNDatPhong.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmKhachHang.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmLoaiMon.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmLoaiPhong.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmLoaiSanPham.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmPhong.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmSanPham.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmThucDon.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.frmXe.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.Properties.Resources.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatMon.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatPhong.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscShopping.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscThueXe.resources
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.csproj.GenerateResource.Cache
+E:\Study\LT_CSDL\Group-1\QLResort\QLResort\obj\Debug\QLResort.exe.licenses
+E:\QLResort\Bin\QLResort.exe.config
+E:\QLResort\Bin\QLResort.exe
+E:\QLResort\Bin\QLResort.pdb
+E:\QLResort\QLResort\obj\Debug\QLResort.csprojResolveAssemblyReference.cache
+E:\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatMon.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmChiTietDatPhong.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmChiTietShopping.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmChiTietThueXe.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmDangNhap.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmDichVu.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmHinhAnh.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmLoaiXe.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmNhanVien.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmQuanLy.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmThanhToan.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmThongKe.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmXNDatPhong.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmKhachHang.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmLoaiMon.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmLoaiPhong.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmLoaiSanPham.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmPhong.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmSanPham.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmThucDon.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.frmXe.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.Properties.Resources.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatMon.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatPhong.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscShopping.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscThueXe.resources
+E:\QLResort\QLResort\obj\Debug\QLResort.csproj.GenerateResource.Cache
+E:\QLResort\QLResort\obj\Debug\QLResort.exe.licenses
+E:\QLResort\QLResort\obj\Debug\QLResort.exe
+E:\QLResort\QLResort\obj\Debug\QLResort.pdb
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmHinhAnh.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmLoaiXe.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmQuanLy.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmThanhToan.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.frmThongKe.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatMon.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscDatPhong.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscShopping.resources
+E:\Ħɛø Çσ\CShape\QLResort\QLResort\obj\Debug\QLResort.User_Control.uscThueXe.resources
